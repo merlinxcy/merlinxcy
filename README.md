@@ -10,7 +10,7 @@
 - java code audit
 - code in go and typescript
 ### Github stats & metrics
-![Xeldax's github stats] (https://github-readme-stats.vercel.app/api?username=merlinxcy&count_private=true&show_icons=true)
+![Xeldax's github stats](https://github-readme-stats.vercel.app/api?username=merlinxcy&count_private=true&show_icons=true)
 
 ### Visit Count
-![Visit Count] (https://profile-counter.glitch.me/merlinxcy/count.svg)
+![Visit Count](https://profile-counter.glitch.me/merlinxcy/count.svg)
