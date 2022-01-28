@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**merlinxcy/merlinxcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- Sec: Web,Bin,IOT,Cloud Native
+- Code: go, py, js
+### Todo list
+- cloud native
+- ebpf
+- win dc
+- java code audit
+- code in go and typescript
+### Github stats & metrics
+![Xeldax's github stats] (https://github-readme-stats.vercel.app/api?username=merlinxcy&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Visit Count
+![Visit Count] (https://profile-counter.glitch.me/merlinxcy/count.svg)
