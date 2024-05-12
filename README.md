@@ -14,3 +14,6 @@
 
 ### Visit Count
 ![Visit Count](https://profile-counter.glitch.me/merlinxcy/count.svg)
+
+### Game
+![THM](https://tryhackme-badges.s3.amazonaws.com/xeldax.png)
