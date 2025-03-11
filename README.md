@@ -8,7 +8,7 @@
 - ebpf
 - win dc
 - java code audit
-- code in rust and solidy
+- code in rust and solidy 1
 ### Github stats & metrics
 ![Xeldax's github stats](https://github-readme-stats.vercel.app/api?username=merlinxcy&count_private=true&show_icons=true)
 
