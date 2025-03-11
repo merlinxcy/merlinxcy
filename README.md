@@ -8,7 +8,7 @@
 - ebpf
 - win dc
 - java code audit
-- code in go and typescript
+- code in rust and solidy
 ### Github stats & metrics
 ![Xeldax's github stats](https://github-readme-stats.vercel.app/api?username=merlinxcy&count_private=true&show_icons=true)
 
